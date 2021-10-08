@@ -53,6 +53,8 @@
 #define MINIMUM_ALLOWED_PART_SIZE 5242880
 // 5368709120 -- 5GB
 #define MAXIMUM_ALLOWED_PART_SIZE 5368709120
+// Maximum size of object allowed is 5TB
+#define MAXIMUM_ALLOWED_OBJECT_SIZE 5497558138880
 // Minmimum part number for multipart operations
 #define MINIMUM_PART_NUMBER 1
 // Maxmimum part number for multipart operations
